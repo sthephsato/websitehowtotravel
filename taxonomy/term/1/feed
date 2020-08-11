@@ -1,0 +1,10 @@
+ <?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://www.howtotraveltomachupicchu.com"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>How to Travel to Machu Picchu - Drupal newsletter</title>
+ <link>https://www.howtotraveltomachupicchu.com/taxonomy/term/1</link>
+ <description>Drupal newsletter categories.
+</description>
+ <language>en</language>
+</channel>
+</rss>
